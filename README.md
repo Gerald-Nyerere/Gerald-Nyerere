@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Gerald-Nyerere/Gerald-Nyerere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,3 @@ That’s why I aim to work on projects like:
 - 🔐 **Secure APIs and scalable backend infrastructure**
 
 Let’s build tech that matters.
--->
