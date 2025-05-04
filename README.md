@@ -10,6 +10,6 @@ That’s why I aim to work on open source projects like:
 - 🎓 **Education technology platforms**
 - 🔐 **Secure APIs and scalable backend infrastructure**
 
--📫 How to reach me: geraldnyerere100ke@gmail.com | LinkedIn
+-📫 How to reach me: geraldnyerere100@gmail.com | LinkedIn
 
 Let’s build tech that matters.
