@@ -1,6 +1,6 @@
 <!-- Banner & Intro -->
 <h1 align="center">Hi 👋, I'm Gerald Nyerere</h1>
-<h3 align="center">🚀 Backend Developer | ALX ProDev Backend Learner</h3>
+<h3 align="center">🚀 Junior Full stack Developer | Backend Developer</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Gerald-Nyerere&label=Profile%20views&color=0e75b6&style=flat" alt="Gerald-Nyerere" />
 </p>
