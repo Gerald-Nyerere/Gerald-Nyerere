@@ -54,7 +54,8 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
   * Applied data-driven performance improvements that contributed to a **30% increase in user engagement**.
   * Integrated React frontend components with Django backend services.
 
-* 🔗 [**Student Result Management System**](https://github.com/Gerald-Nyerere): *Student management platform built with Django REST Framework, PostgreSQL, and React.*
+* 🔗 [**Student Result Management System**](https://github.com/Gerald-Nyerere/Alx_Capstone_project
+): *Student management platform built with Django REST Framework, PostgreSQL, and React.*
 
   * Designed structured databases for managing student records and academic results.
   * Developed efficient data retrieval and reporting functionality for administrative use.
