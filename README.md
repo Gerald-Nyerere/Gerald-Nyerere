@@ -97,6 +97,18 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 
 ---
 
+### 🎯 Current Focus
+
+* 🚀 Building **scalable full-stack applications** using Django, React, and PostgreSQL
+* 🔐 Developing **secure REST APIs** with Django REST Framework, authentication, and authorization
+* ☁️ Learning **cloud deployment, Docker, AWS, and CI/CD workflows**
+* 🗄️ Improving **database design, SQL optimization, and backend performance**
+* 🌐 Strengthening **frontend-backend integration** and responsive application development
+* 🏗️ Exploring **microservices, system design, and scalable software architecture**
+* ⚙️ Learning **Infrastructure as Code (Terraform)** and modern DevOps practices
+
+---
+
 ### 🤝 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/gerald-nyerere-20b54b22a" target="blank">
