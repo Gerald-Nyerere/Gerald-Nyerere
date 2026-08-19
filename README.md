@@ -72,13 +72,18 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gerald-Nyerere&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=Gerald-Nyerere&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-Nyerere&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+| **Category**             | **Technologies**                                |
+| ------------------------ | ----------------------------------------------- |
+| **Languages**            | Python, JavaScript, HTML5, CSS3, SQL            |
+| **Backend**              | Django, Django REST Framework, Flask, REST APIs |
+| **Frontend**             | React, Tailwind CSS, Vite                       |
+| **Databases**            | PostgreSQL, MySQL, MongoDB, SQLite              |
+| **Cloud/DevOps**         | AWS, Docker, Linux, Nginx, GitHub Actions       |
+| **APIs & Documentation** | REST APIs, Postman, Swagger/OpenAPI             |
+| **Tools**                | Git, GitHub, VS Code                            |
+| **Architecture**         | Microservices, Authentication, Database Design  |
 
 
 
