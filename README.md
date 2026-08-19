@@ -47,7 +47,7 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 
 ### 📚 Featured Projects
 
-* 🔗 [**E-Commerce Performance Optimization Project**](https://github.com/Gerald-Nyerere): *Full-stack e-commerce application built with Django, React, PostgreSQL, and Tailwind CSS.*
+* 🔗 [**E-Commerce Performance Optimization Project**](https://github.com/Gerald-Nyerere/alx-project-nexus): *Full-stack e-commerce application built with Django, React, PostgreSQL, and Tailwind CSS.*
 
   * Analyzed server logs and SQL query performance to identify application bottlenecks.
   * Optimized database queries and implemented indexing to improve application performance and responsiveness.
@@ -62,7 +62,8 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
   * Tested and validated REST API endpoints using Postman.
   * Integrated React frontend components with backend APIs.
 
-* 🔗 [**Blog & Content Platform**](https://github.com/Gerald-Nyerere): *Content management platform built with Django, React, and SQLite.*
+* 🔗 [**Blog & Content Platform**](https://github.com/Gerald-Nyerere/Alx_DjangoLearnLab
+/django_blog): *Content management platform built with Django, React, and SQLite.*
 
   * Designed and managed structured data for posts, users, and user interactions.
   * Implemented search functionality and optimized database queries for efficient content retrieval.
