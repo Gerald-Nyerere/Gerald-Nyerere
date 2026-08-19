@@ -125,17 +125,17 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://github.com/Gerald-Nyerere" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/gerald-nyerere-20b54b22a" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:geraldnyerere100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/GeraldNyer16384" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://github.com/Gerald-Nyerere" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
