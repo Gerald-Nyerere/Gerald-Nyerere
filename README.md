@@ -109,6 +109,19 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 
 ---
 
+# 🤝 Open to Opportunities
+
+### Looking for
+
+* 💻 **Junior Full-Stack Developer** roles
+* ⚙️ **Backend Developer / Software Engineer** opportunities
+* 🌐 **Full-Stack Development** projects and internships
+* 🔌 **REST API & Systems Development** opportunities
+* ☁️ **Cloud & DevOps** internships and junior roles
+* 🚀 **Open-source & collaborative software projects**
+  
+---
+
 ### 🤝 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/gerald-nyerere-20b54b22a" target="blank">
