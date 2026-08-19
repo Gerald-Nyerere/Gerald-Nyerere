@@ -75,16 +75,11 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gerald-Nyerere&show_icons=true&theme=radical" alt="Gerald Nyerere GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gerald-Nyerere&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Gerald-Nyerere&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-Nyerere&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=Gerald-Nyerere&theme=radical" alt="Gerald Nyerere GitHub Streak" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-Nyerere&layout=compact&theme=radical" alt="Gerald Nyerere Top Languages" />
-</p>
 
 
 ---
