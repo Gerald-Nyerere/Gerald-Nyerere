@@ -45,10 +45,29 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
 
 ---
 
-### 📚 Featured Projects  
-- 🔗 [**EdTech Platform API**](https://github.com/Gerald-Nyerere/edtech-platform-api): *An API powering an education platform with user roles, secure authentication, and course management.*  
-- 🔗 [**Secure Civic Tech Backend**](https://github.com/Gerald-Nyerere/civic-tech-backend): *Scalable backend for a civic engagement platform with strong security and API optimization.*  
-- 🔗 [**Microservices for Social Impact**](https://github.com/Gerald-Nyerere/social-impact-microservices): *Cloud-ready microservices architecture supporting data-driven social initiatives.*  
+### 📚 Featured Projects
+
+* 🔗 [**E-Commerce Performance Optimization Project**](https://github.com/Gerald-Nyerere): *Full-stack e-commerce application built with Django, React, PostgreSQL, and Tailwind CSS.*
+
+  * Analyzed server logs and SQL query performance to identify application bottlenecks.
+  * Optimized database queries and implemented indexing to improve application performance and responsiveness.
+  * Applied data-driven performance improvements that contributed to a **30% increase in user engagement**.
+  * Integrated React frontend components with Django backend services.
+
+* 🔗 [**Student Result Management System**](https://github.com/Gerald-Nyerere): *Student management platform built with Django REST Framework, PostgreSQL, and React.*
+
+  * Designed structured databases for managing student records and academic results.
+  * Developed efficient data retrieval and reporting functionality for administrative use.
+  * Tested and validated REST API endpoints using Postman.
+  * Integrated React frontend components with backend APIs.
+
+* 🔗 [**Blog & Content Platform**](https://github.com/Gerald-Nyerere): *Content management platform built with Django, React, and SQLite.*
+
+  * Designed and managed structured data for posts, users, and user interactions.
+  * Implemented search functionality and optimized database queries for efficient content retrieval.
+  * Improved data organization and application performance.
+  * Built responsive user interfaces using React.
+ 
 
 ---
 
