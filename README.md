@@ -62,7 +62,7 @@ That’s why I want to work on **Education Technology Platforms, Secure APIs, an
   * Tested and validated REST API endpoints using Postman.
   * Integrated React frontend components with backend APIs.
 
-* 🔗 [**Blog & Content Platform**](https://github.com/Gerald-Nyerere/Alx_DjangoLearnLab/django_blog): *Content management platform built with Django, React, and SQLite.*
+* 🔗 [**Blog & Content Platform**](https://github.com/Gerald-Nyerere/Alx_DjangoLearnLab/django_blog/): *Content management platform built with Django, React, and SQLite.*
 
   * Designed and managed structured data for posts, users, and user interactions.
   * Implemented search functionality and optimized database queries for efficient content retrieval.
